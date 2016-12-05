@@ -1,2 +1,4 @@
 Adding new functionality
 conflict from master
+
+MyVersion = True;
